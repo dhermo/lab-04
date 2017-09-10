@@ -18,7 +18,7 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 ### Gen SRY de 26 especies
 
 ![árbol filogenetico utilizando probcons](https://raw.githubusercontent.com/dhermo/lab-04/master/probconstree.jpg "Árbol filogenético utilizando Probcons")
-
+![afup](https://raw.githubusercontent.com/dhermo/lab-04/master/probconspdf.jpg "zoom")
 **Figura 1:** Árbol filogenético utilizando Probcons
 
 ![árbol filogenético con clustalw](https://raw.githubusercontent.com/dhermo/lab-04/master/clustalwtree.jpg "Árbol filogenético utilizando clustalw")
