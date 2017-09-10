@@ -26,7 +26,8 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 **Figura 2:** Árbol filogenético utilizando clustalw
 
 ¿A qué se refiere el paso de *Alignment curation* y para qué sirve?
-	
+  - Se refiere a la estructuración de la alineación, donde se puede decidir entre la eliminación de secuencias pobremente alineadas de una secuencia de ADN o de proteínas o  se rellenaran con *gaps* estas malas alineaciones. Para lograrlo la plataforma utiliza *Gblock* para la eliminación, y la opción de *remove positions with gaps*
+  
 ¿Cuál es la diferencia entre BioNJ y Neighbor? (Pista: revisa la documentación)
 	
 Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
