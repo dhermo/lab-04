@@ -19,3 +19,6 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
 	
 Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.  
+
+
+![árbol filogenetico utilizando probcons](https://raw.githubusercontent.com/dhermo/lab-04/master/probconstree.jpg)
