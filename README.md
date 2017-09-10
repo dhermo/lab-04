@@ -34,7 +34,7 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. 
 
 ![árbol filogenético,probcons sin *Alignment curation*](https://raw.githubusercontent.com/dhermo/lab-04/master/probconsinalineacion.jpg "Árbol filogenético,probcons sin *Alignment curation*")
-
+![afpsac](https://raw.githubusercontent.com/dhermo/lab-04/master/probconsinalineacionpdf.jpg "zoom")
 **Figura 3:** Árbol filogenético,probcons sin *Alignment curation*
 
 
