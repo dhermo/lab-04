@@ -42,7 +42,8 @@ Corre de nuevo las filogenias pero esta vez sin *Alignment curation*.
 **Figura 4:** Árbol filogenético, clustalw sin *Alignment curation*
 
 ¿Cuál es el efecto en las filogenias?
-	
+  - Al analizar las filogenias con *alignment curation* y sin este se puede observar un cambio en; la forma de los arboles, distancias entre especies, las posiciones de los ancestros en común y variuaciones en las distancias de las ramas.
+  
 Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.  
 
 
