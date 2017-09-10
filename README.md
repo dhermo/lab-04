@@ -37,8 +37,9 @@ Corre de nuevo las filogenias pero esta vez sin *Alignment curation*.
 ![afpsac](https://raw.githubusercontent.com/dhermo/lab-04/master/probconsinalineacionpdf.jpg "zoom")
 **Figura 3:** Árbol filogenético,probcons sin *Alignment curation*
 
+![árbol filogenético, clustalw sin *Alignment curation*](https://raw.githubusercontent.com/dhermo/lab-04/master/clustalwsinalineacion.jpg "Árbol filogenético, clustalw sin *Alignment curation*")
 
-
+**Figura 4:** Árbol filogenético, clustalw sin *Alignment curation*
 
 ¿Cuál es el efecto en las filogenias?
 	
