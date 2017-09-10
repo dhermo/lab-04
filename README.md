@@ -15,12 +15,15 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 
 ## Análisis filogenético
 
-### Gen SRY de 24 especies
+### Gen SRY de 26 especies
 
-![árbol filogenetico utilizando probcons](https://raw.githubusercontent.com/dhermo/lab-04/master/probconstree.jpg)
+![árbol filogenetico utilizando probcons](https://raw.githubusercontent.com/dhermo/lab-04/master/probconstree.jpg "Árbol filogenético utilizando Probcons")
 
 **Figura 1:** Árbol filogenético utilizando Probcons
 
+![árbol filogenético con clustalw](https://raw.githubusercontent.com/dhermo/lab-04/master/clustalwtree.jpg "Árbol filogenético utilizando clustalw")
+
+**Figura 2:** Árbol filogenético utilizando clustalw
 
 ¿A qué se refiere el paso de *Alignment curation* y para qué sirve?
 	
