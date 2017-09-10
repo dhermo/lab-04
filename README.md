@@ -26,11 +26,21 @@ Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la
 **Figura 2:** Árbol filogenético utilizando clustalw
 
 ¿A qué se refiere el paso de *Alignment curation* y para qué sirve?
-  - Se refiere a la estructuración de la alineación, donde se puede decidir entre la eliminación de secuencias pobremente alineadas de una secuencia de ADN o de proteínas o  se rellenaran con *gaps* estas malas alineaciones. Para lograrlo la plataforma utiliza *Gblock* para la eliminación, y la opción de *remove positions with gaps*
+  - Se refiere a la estructuración de la alineación, donde se puede decidir entre la eliminación de secuencias pobremente alineadas de una secuencia de ADN o de proteínas o  se rellenaran con *gaps* estas malas alineaciones. Para lograrlo la plataforma utiliza *Gblock* y la opción de *remove positions with gaps*, siendo la primera opción más rigurosa que la segunda.
   
-¿Cuál es la diferencia entre BioNJ y Neighbor? (Pista: revisa la documentación)
-	
-Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
+¿Cuál es la diferencia entre BioNJ y Neighbor? 
+  - Se diferencian en la cantidad máxima de taxones con los que pueden realizar la reconstrucción filogenética. El *BionNJ* analiza menos de 5000 taxones, mientras que el *Neighbor* reconsytruye menos de 500 taxones.
+  
+Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. 
+
+![árbol filogenético,probcons sin *Alignment curation*](https://raw.githubusercontent.com/dhermo/lab-04/master/probconsinalineacion.jpg "Árbol filogenético,probcons sin *Alignment curation*")
+
+**Figura 3:** Árbol filogenético,probcons sin *Alignment curation*
+
+
+
+
+¿Cuál es el efecto en las filogenias?
 	
 Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.  
 
