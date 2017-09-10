@@ -1,7 +1,7 @@
 # Laboratorio 04 - Filogenética Molecular
 Diego Hermosilla Alfaro
 
-Responde sobre Phylogeny.fr
+## Responde sobre Phylogeny.fr
 
 ¿Qué cosas ofrece este portal? 
   - Este portal ofrece una plataforma que sirve como fuente de información filogenética, que puede ser ejecutada de diferentes modos.
@@ -12,7 +12,13 @@ Responde sobre Phylogeny.fr
 Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la documentación
   - Análisis filogenético, reconstrucción filogenética, visualizador de árbol,  búsqueda de secuencias homologas, alineamiento múltiple.
   
+
+## Análisis filogenético
+
+### Gen SRY de 24 especies
+
 ![árbol filogenetico utilizando probcons](https://raw.githubusercontent.com/dhermo/lab-04/master/probconstree.jpg)
+
 **Figura 1:** Árbol filogenético utilizando Probcons
 
 
