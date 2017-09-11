@@ -45,5 +45,5 @@ Corre de nuevo las filogenias pero esta vez sin *Alignment curation*.
   - Al analizar las filogenias con *alignment curation* y sin este se puede observar un cambio en; la forma de los arboles, distancias entre especies, las posiciones de los ancestros en común y variuaciones en las distancias de las ramas.
   
 Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.  
-  - Respecto a las diferencias entre las herramientas probcons y clustalw podemos observar diferencias en las posiciones de varias especies, por ejemplo *Gavia stellata* se encuentra más separado del resto de las especies en probcons que en clustalw. En la cual, la especie más alejada es la de *Neomonachus schauinslandi*.
-  - 
+  - Respecto a las diferencias entre las herramientas probcons y clustalw podemos observar diferencias en las posiciones de varias especies, por ejemplo *Gavia stellata* se encuentra más separado del resto de las especies en probcons que en clustalw, donde se encuentra más cercano filogenéticamente a *Orycteropus afer afer*. También en clustalw la especie más alejada es la de *Neomonachus schauinslandi*. Podemos observar también como en clustalw las especies *Equus przewalskii* y *Equus asinus* pertenecen al mismo grupo monofilético que *Gavia stellata* y *Orycteropus afer afer*, mientras que en el probcons las especies *Equus* estan agrupadas con un mayor numero de especies.
+ 
